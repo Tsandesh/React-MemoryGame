@@ -1,22 +1,22 @@
 import React from "react";
+import "./SingleCard.css";
 
 const SingleCard = (props) => {
-  const card = props.card;
-  const handelChoice = props.handelChoice;
+  const { card, handelChoice, flipped, disabled } = props;
 
   const handleClick = () => {
-    handelChoice(card);
+    !disabled && handelChoice(card);
   };
 
   return (
     <div className="card">
-      <div>
-        <img className="front" src={card.src} alt="front img" />
+      <div className={flipped ? "flipped" : ""}>
+        <img className="front" src={card.src} alt="card front" />
         <img
           className="back"
           src="/img/cover.png"
-          alt="back img"
           onClick={handleClick}
+          alt="cover"
         />
       </div>
     </div>
