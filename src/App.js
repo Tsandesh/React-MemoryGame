@@ -28,7 +28,7 @@ const cardImages = [
     matched: false,
   },
   {
-    src: "https://raw.githubusercontent.com/Tsandesh/React-MemoryGame/main/public/img/pudel.jpg",
+    src: "https://raw.githubusercontent.com/Tsandesh/React-MemoryGame/main/public/img/pudel.png",
     matched: false,
   },
 ];
