@@ -14,7 +14,7 @@ const SingleCard = (props) => {
         <img className="front" src={card.src} alt="card front" />
         <img
           className="back"
-          src="/img/cover.png"
+          src="https://raw.githubusercontent.com/Tsandesh/React-MemoryGame/main/public/img/cover.png"
           onClick={handleClick}
           alt="cover"
         />
