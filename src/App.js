@@ -4,31 +4,31 @@ import SingleCard from "./components/SingleCard";
 
 const cardImages = [
   {
-    src: "https://tsandesh.github.io/React-MemoryGame/img/chiru.jpeg",
+    src: "img/chiru.JPEG",
     matched: false,
   },
   {
-    src: "https://tsandesh.github.io/React-MemoryGame/img/susil.jpeg",
+    src: "img/susil.JPEG",
     matched: false,
   },
   {
-    src: "https://tsandesh.github.io/React-MemoryGame/img/Thapa.jpg",
+    src: "img/Thapa.JPG",
     matched: false,
   },
   {
-    src: "https://tsandesh.github.io/React-MemoryGame/img/gandu.jpg",
+    src: "img/gandu.JPG",
     matched: false,
   },
   {
-    src: "https://tsandesh.github.io/React-MemoryGame/img/amrit.jpeg",
+    src: "img/amrit.JPEG",
     matched: false,
   },
   {
-    src: "https://tsandesh.github.io/React-MemoryGame/img/Joe.jpg",
+    src: "img/Joe.JPEG",
     matched: false,
   },
   {
-    src: "https://tsandesh.github.io/React-MemoryGame/img/pudel.jpg",
+    src: "img/pudel.JPG",
     matched: false,
   },
 ];
