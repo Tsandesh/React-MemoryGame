@@ -3,12 +3,12 @@ import { useState, useEffect } from "react";
 import SingleCard from "./components/SingleCard";
 
 const cardImages = [
-  { src: "/img/helmet-1.png", matched: false },
-  { src: "/img/potion-1.png", matched: false },
-  { src: "/img/ring-1.png", matched: false },
-  { src: "/img/scroll-1.png", matched: false },
-  { src: "/img/shield-1.png", matched: false },
-  { src: "/img/sword-1.png", matched: false },
+  { src: "/img/chiru.jpeg", matched: false },
+  { src: "/img/susil.jpeg", matched: false },
+  { src: "/img/Thapa.jpg", matched: false },
+  { src: "/img/gandu.jpg", matched: false },
+  { src: "/img/amrit.jpeg", matched: false },
+  { src: "/img/Joe.jpg", matched: false },
 ];
 
 function App() {
