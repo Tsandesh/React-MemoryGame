@@ -4,31 +4,31 @@ import SingleCard from "./components/SingleCard";
 
 const cardImages = [
   {
-    src: "https://tsandesh.github.io/React-MemoryGame/img/chiru.jpeg",
+    src: "https://raw.githubusercontent.com/Tsandesh/React-MemoryGame/main/public/img/chiru.jpeg",
     matched: false,
   },
   {
-    src: "https://tsandesh.github.io/React-MemoryGame/img/susil.jpeg",
+    src: "https://raw.githubusercontent.com/Tsandesh/React-MemoryGame/main/public/img/susil.jpeg",
     matched: false,
   },
   {
-    src: "https://tsandesh.github.io/React-MemoryGame/img/Thapa.jpg",
+    src: "https://raw.githubusercontent.com/Tsandesh/React-MemoryGame/main/public/img/Thapa.jpg",
     matched: false,
   },
   {
-    src: "https://tsandesh.github.io/React-MemoryGame/img/gandu.jpg",
+    src: "https://raw.githubusercontent.com/Tsandesh/React-MemoryGame/main/public/img/gandu.jpg",
     matched: false,
   },
   {
-    src: "https://tsandesh.github.io/React-MemoryGame/img/amrit.jpeg",
+    src: "https://raw.githubusercontent.com/Tsandesh/React-MemoryGame/main/public/img/amrit.jpeg",
     matched: false,
   },
   {
-    src: "https://tsandesh.github.io/React-MemoryGame/img/Joe.jpg",
+    src: "https://raw.githubusercontent.com/Tsandesh/React-MemoryGame/main/public/img/Joe.jpg",
     matched: false,
   },
   {
-    src: "https://tsandesh.github.io/React-MemoryGame/img/pudel.jpg",
+    src: "https://raw.githubusercontent.com/Tsandesh/React-MemoryGame/main/public/img/pudel.jpg",
     matched: false,
   },
 ];
