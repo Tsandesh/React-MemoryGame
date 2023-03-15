@@ -12,6 +12,10 @@ const cardImages = [
     matched: false,
   },
   {
+    src: "https://raw.githubusercontent.com/Tsandesh/React-MemoryGame/main/public/img/Bikram.jpg",
+    matched: false,
+  },
+  {
     src: "https://raw.githubusercontent.com/Tsandesh/React-MemoryGame/main/public/img/Thapa.jpg",
     matched: false,
   },
